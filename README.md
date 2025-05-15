@@ -4,8 +4,8 @@ A fictional story of a detective and a rouge boy.
 
 Directory
 
-Bahasa
-English
+Story\Bahasa
+Story\English
 
 Characters Design
 
